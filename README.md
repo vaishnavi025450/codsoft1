@@ -31,3 +31,21 @@ Predict product sales based on advertising expenditure across different media pl
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+- ### 2. Movie Rating Prediction
+**Objective:**
+Predict IMDb movie ratings using features such as genre, director, actors, and votes.
+
+**Techniques Used:**
+- Data Preprocessing
+- Feature Engineering
+- Machine Learning Regression
+- Performance Evaluation
+
+**Libraries:**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
