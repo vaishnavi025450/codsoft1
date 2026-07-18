@@ -6,7 +6,7 @@ This repository contains the projects completed as part of my **Data Science Int
 
 ##  Intern Details
 
-- **Name:Gundaboina Vyshnavi
+- **Name: Gundaboina Vyshnavi
 - **Internship:** CodSoft Data Science Internship
 - **Domain:** Data Science
 - **Language:** Python
